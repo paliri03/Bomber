@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a322f7a8e88160848ad163ecebbdce24, type: 3}
+  m_Name: SimpleBomb
+  m_EditorClassIdentifier: 
+  damage: 5
+  damageRadius: 2
+  icon: {fileID: 21300000, guid: 5b40f357fb2eb6b47b943ab432d467ca, type: 3}
+  collisionRadius: 0.6

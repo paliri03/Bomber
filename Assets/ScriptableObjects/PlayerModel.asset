@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bea417e9d961045a721d14a3cbdac4, type: 3}
+  m_Name: PlayerModel
+  m_EditorClassIdentifier: 
+  availableItems:
+  - {fileID: 2248669100831210951, guid: 56b285139a8c13943a5dfcf8b8fa4210, type: 3}
+  - {fileID: 5125604992369192849, guid: ee720b059d3fb394c9bfd1da0d3434c8, type: 3}
+  itemSpawnHeight: 5
